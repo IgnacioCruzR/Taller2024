@@ -2,6 +2,7 @@
 Taller de Ignacio Hector Cruz Reyes , 21127029-2 , ignacio.cruz01@alumnos.ucn.cl y ethan alexis Astorga Contreras , 207181765 , ethan.astorga@alumnos.ucn.cl 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetos Productos:
+______________________________________________________________________________________________________________________________________________________________
 Medicamentos,Analgésicos,Ibuprofeno 400 mg,500
 Medicamentos,Analgésicos,Paracetamol 500 mg,300
 Medicamentos,Antihistamínicos,Loratadina 10 mg,700
