@@ -46,3 +46,19 @@ ________________________________________________________________________________
 45678901-8,Si,Discapacitado
 56789012-6,No,No tiene discapacidad
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+Menus:
+______________________________________________________________________________________________________________________________________________________________
+el codigo se ejecuta primero leyendo ambos txt, luego ingresar a un menu donde se tiene distintas opciones
+1. ingresar cliente :  donde se ingresa un nuevo cliente
+2.Llamar al siguiente cliente: donde se llama al siguiente cliente
+3. carrito del cliente: donde se podra ingresar, eliminar o ver el carrito del cliente
+4. se cancela la venta del cliente actual
+5. se genera una boleta para la venta
+6. se ingresa al menu de la bodega
+7. se guarda y sale del programa
+
+menu de bodega
+1. se agrega un nuevo producto al stock
+2. se elimina un producto del stock
+3. se puede ver el inventario
+4. se sale del menu de bodega
