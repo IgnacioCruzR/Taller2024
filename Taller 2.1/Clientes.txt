@@ -1,0 +1,19 @@
+12345678-9,No,No tiene discapacidad
+23456789-0,Si,Tercera Edad
+34567890-1,Si,Embarazada
+45678901-2,Si,Discapacitado
+56789012-3,No,No tiene discapacidad
+67890123-4,Si,Embarazada
+78901234-5,No,No tiene discapacidad
+89012345-6,Si,Discapacitado
+90123456-7,No,No tiene discapacidad
+01234567-8,Si,Discapacitado
+12345678-9,No,No tiene discapacidad
+23456789-0,Si,Tercera Edad
+34567890-1,No,No tiene discapacidad
+45678901-2,Si,Discapacitado
+56789012-4,No,No tiene discapacidad
+23456789-1,Si,Tercera Edad
+34567890-0,No,No tiene discapacidad
+45678901-8,Si,Discapacitado
+56789012-6,No,No tiene discapacidad

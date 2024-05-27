@@ -1,0 +1,20 @@
+Medicamentos,Analgésicos,Ibuprofeno 400 mg,500
+Medicamentos,Analgésicos,Paracetamol 500 mg,300
+Medicamentos,Antihistamínicos,Loratadina 10 mg,700
+Medicamentos,Antihistamínicos,Cetirizina 5 mg,600
+Cuidado Personal,Higiene Bucal,Pasta Dental Colgate Total 12,300
+Cuidado Personal,Higiene Bucal,Cepillo de Dientes Oral-B Pro,200
+Cuidado Personal,Cuidado de la Piel,Crema Hidratante Neutrogena,1000
+Cuidado Personal,Cuidado de la Piel,Protector Solar Nivea SPF 50,1200
+Vitaminas y Suplementos,Vitaminas,Vitamina C 1000 mg,400
+Vitaminas y Suplementos,Vitaminas,Vitamina D3 1000 UI,500
+Vitaminas y Suplementos,Suplementos Nutricionales,Proteína en Polvo sabor chocolate,800
+Vitaminas y Suplementos,Suplementos Nutricionales,Omega 3 cápsulas,900
+Primeros Auxilios,Material de Curación,Venda Elástica,200
+Primeros Auxilios,Material de Curación,Gasas Estériles,150
+Primeros Auxilios,Desinfectantes,Alcohol 70%,100
+Primeros Auxilios,Desinfectantes,Solución de Yodo,120
+Cuidado del Bebé,Pañales y Toallitas,Pañales Pampers Talla 1,150
+Cuidado del Bebé,Pañales y Toallitas,Toallitas Húmedas Huggies,80
+Cuidado del Bebé,Alimentación,Leche en Polvo para Bebés,300
+Cuidado del Bebé,Alimentación,Puré de Manzana Gerber,250
