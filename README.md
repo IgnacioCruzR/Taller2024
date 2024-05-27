@@ -1,5 +1,6 @@
 # Taller2024
 Taller de Ignacio Hector Cruz Reyes , 21127029-2 , ignacio.cruz01@alumnos.ucn.cl y ethan alexis Astorga Contreras , 207181765 , ethan.astorga@alumnos.ucn.cl 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetos Productos:
 Medicamentos,Analgésicos,Ibuprofeno 400 mg,500
 Medicamentos,Analgésicos,Paracetamol 500 mg,300
@@ -21,6 +22,7 @@ Cuidado del Bebé,Pañales y Toallitas,Pañales Pampers Talla 1,150
 Cuidado del Bebé,Pañales y Toallitas,Toallitas Húmedas Huggies,80
 Cuidado del Bebé,Alimentación,Leche en Polvo para Bebés,300
 Cuidado del Bebé,Alimentación,Puré de Manzana Gerber,250
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetos Clientes:
 12345678-9,No,No tiene discapacidad
 23456789-0,Si,Tercera Edad
